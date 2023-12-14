@@ -107,7 +107,7 @@
                 <p onclick="closeForm()" style="cursor: pointer;"'>X
             </p>
             </div>
-            <form id=' postGasto'>
+            <form id='postGasto'>
                     <label class="mt-3" for="fecha">Introduzca la fecha</label>
                     <input class="mt-3 form-control" type="date" name="fecha" id="fecha" placeholder="YYYY-MM-DD">
                     <label class="mt-3" for="cantidad">Introduzca la cantidad</label>
